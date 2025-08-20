@@ -28,9 +28,3 @@ O(a) Coordenador(a) Técnico(a) é responsável por:
 2. Familiarize-se com o **template de GitHub Projects** adotado pelo CEIA.
 3. Configure as issues iniciais do seu projeto vinculando-as às macroentregas.
 4. Mantenha o fluxo de trabalho atualizado semanalmente.
-
----
-
-## 📞 Suporte
-
-Em caso de dúvidas, entre em contato com o PMO do CEIA pelo e-mail **portfolio@ceia.ufg.br**.

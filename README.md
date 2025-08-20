@@ -39,7 +39,7 @@ Acesse: [`/coordenacao-tecnica`](./coordenacao-tecnica)
 
 ## Contribuindo com este repositório
 
-Se você notar algo que pode ser melhorado ou atualizado, fique à vontade para abrir um Pull Request ou sugerir melhorias por e-mail contato@ceia.ufg.br.
+Se você notar algo que pode ser melhorado ou atualizado, fique à vontade para abrir um Pull Request ou sugerir melhorias por e-mail portfolio@ceia.ufg.br.
 
 ---
 
