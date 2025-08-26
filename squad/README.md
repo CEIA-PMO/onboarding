@@ -1,6 +1,6 @@
 # 👥 Manual do Squad - CEIA
 
-Este manual tem como objetivo orientar os membros do squad sobre as práticas, ferramentas e responsabilidades no dia a dia dos projetos do CEIA.
+Este manual tem como objetivo orientar os membros do squad sobre o fluxo de trabalho que deve ser seguido durante a execução de suas atividades no contexto dos projetos do CEIA. O documento descreve as boas práticas, ferramentas e responsabilidades no dia a dia.
 
 ## O que é o Squad?
 
@@ -8,10 +8,10 @@ O Squad é uma equipe multidisciplinar responsável por desenvolver soluções d
 
 ## Conteúdo
 
-- Ambientação técnica com Git e GitHub
-- Organização de tarefas e fluxo de trabalho
-- Boas práticas de colaboração e versionamento
-
+- Ambientação técnica : [`ambientacao-git.md`](./ambientacao-git.md)
+- Organização de Atividades : [`fluxo-github-projects.md`](./fluxo-github-projects.md)
+- GitFlow e Versionamento: [`gitflow-e-padroes.md`](./gitflow-e-padroes.md)
+  
 ## Comece por aqui
 
 Recomendamos iniciar pela ambientação técnica:
