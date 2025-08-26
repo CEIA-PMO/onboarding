@@ -1,10 +1,10 @@
-## 📁 GitFlow — Organização do Código
+# 📁 GitFlow — Organização do Código
 
 Os repositórios dos projetos do CEIA devem seguir o modelo **GitFlow**, com as seguintes convenções para facilitar a colaboração e manter a consistência.
 
 ---
 
-### Principais branches
+## Principais branches
 
 | Branch        | Descrição                                             |
 |---------------|--------------------------------------------------------|
@@ -15,7 +15,7 @@ Os repositórios dos projetos do CEIA devem seguir o modelo **GitFlow**, com as 
 
 ---
 
-### Padrão de nomes de branches
+## Padrão de nomes de branches
 
 Utilize o prefixo da categoria seguido do número da issue relacionada e um nome descritivo em `kebab-case`:
 
@@ -25,7 +25,7 @@ hotfix-50-erro-validacao-formulario
 ```
 ---
 
-### Padrão de mensagens de commits
+## Padrão de mensagens de commits
 
 A mensagem de commit deve seguir a seguinte regra: \
 `#[número da issue] - [mensagem de commit]`
@@ -39,9 +39,9 @@ Exemplos de mensagem de commits numa branch para realizar a issue 42:
 ```
 ---
 
-### Pull Requests
+## Pull Requests
 
-#### Título do PR
+### Título do PR
 
 Use o padrão:
 
@@ -52,14 +52,15 @@ Use o padrão:
 
 > O prefixo entre colchetes indica o tipo da entrega.
 
-#### Descrição do PR
+### Descrição do PR
 
 - Faça um resumo do que foi entregue.
-- Vincule a issue correspondente:
-  ```
-  Closes #42
-  ```
 
+### Vinculação da Issue
+
+- Ao abrir um Pull Request, utilize o campo **Development**, disponível na própria tela de criação/edição do PR.
+- Nesse campo, associe a issue relacionada à sua entrega.
+- Quando o vínculo é feito corretamente, ao mergear o PR, a issue vinculada será encerrada automaticamente.
 ---
 
 ### Processo de revisão
