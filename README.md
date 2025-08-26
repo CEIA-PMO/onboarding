@@ -20,10 +20,7 @@ Acesse: [`/squad`](./squad)
 ---
 
 ### ⚙️ Manual do Líder Técnico
-Voltado para quem atua como **referência técnica dentro do squad**.  
-O Tech Lead é responsável por **definir soluções técnicas**, **tomar decisões mais assertivas** e **garantir a qualidade técnica das entregas**.
-
-Conteúdo principal:
+Voltado para quem atua como referência técnica dentro do squad:
 - Responsabilidades do Líder Técnico
 - Apoio nas atividades do squad
 - Boas práticas de liderança técnica
