@@ -65,7 +65,10 @@ Use o padrão:
 
 ### Processo de revisão
 
-- _Em construção_
+- Recomenda-se que todo Pull Request seja revisado por pelo menos 1 membro do squad antes do merge.
+- Ao receber comentários ou solicitações de correção, responda e/ou atualize o PR, se necessário.
+- Essa etapa de revisão contribui para a qualidade do código, compartilhamento de conhecimento e padronização do projeto.
+- No entanto, **a adoção desse processo fica a critério da Coordenação Técnica**, que pode definir se haverá (ou não) a etapa de revisão no projeto.
 
 ---
 
