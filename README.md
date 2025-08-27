@@ -22,7 +22,7 @@ Acesse: [`/squad`](./squad)
 ### ⚙️ Manual do Líder Técnico
 Documentação voltada para quem atua como líder técnico:
 - Responsabilidades do Líder Técnico
-- Apoio nas atividades do squad
+- Apoio técnico nas atividades
 - Boas práticas de liderança técnica
 
 Acesse: [`/lider-tecnico`](./lider-tecnico)
