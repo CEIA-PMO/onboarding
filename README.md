@@ -8,21 +8,31 @@ Este repositório reúne os manuais, materiais de apoio e atividades de ambienta
 
 ## Conteúdo
 
-### 👥 Squad
+### 👥 Manual do Squad
 Documentação voltada para os membros dos squads:
-- Rotinas e responsabilidades
-- Ferramentas utilizadas
-- Ambientação técnica com Git/GitHub
+- Ambientação no Git e GitHub
+- Fluxo de trabalho no **GitHub Projects**
+- Padrões de versionamento (**GitFlow**)
+- Boas práticas de colaboração
 
 Acesse: [`/squad`](./squad)
 
 ---
 
-### ⚙️ Coordenação Técnica
+### ⚙️ Manual do Líder Técnico
+Documentação voltada para quem atua como líder técnico:
+- Responsabilidades do Líder Técnico
+- Apoio técnico nas atividades
+- Boas práticas de liderança técnica
+
+Acesse: [`/lider-tecnico`](./lider-tecnico)
+
+---
+
+### 🧑‍💻 Manual da Coordenação Técnica
 Documentação voltada para membros da coordenação técnica:
 - Processos de gestão técnica
 - Organização e acompanhamento dos projetos
-- Diretrizes para liderança técnica
 
 Acesse: [`/coordenacao-tecnica`](./coordenacao-tecnica)
 
