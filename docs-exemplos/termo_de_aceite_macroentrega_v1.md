@@ -1,24 +1,23 @@
-# 📑 Termo de Aceite da Macroentrega
+# Termo de Aceite da Macroentrega
 
 <div style="border:1px solid #ccc; padding:15px; margin:10px 0; border-radius:8px; background:#f9f9f9;">
 
-<div style="width:100vw; margin-left:calc(-50vw + 50%);">
-  <table style="width:100%; border-collapse:collapse; border:1px solid #ccc;">
-    <tr><td><strong>Unidade EMBRAPII:</strong></td><td>CEIA/UFG</td></tr>
-    <tr><td><strong>Empresa:</strong></td><td>&lt;NOME DA EMPRESA&gt;</td></tr>
-    <tr><td><strong>Código do projeto:</strong></td><td></td></tr>
-    <tr><td><strong>Título do projeto:</strong></td><td>&lt;TÍTULO NO SRINFO&gt;</td></tr>
-    <tr><td><strong>Número da macroentrega:</strong></td><td>&lt;1&gt;</td></tr>
-    <tr><td><strong>Título da macroentrega:</strong></td><td></td></tr>
-    <tr><td><strong>Percentual executado da Macroentrega:</strong></td><td></td></tr>
-    <tr><td><strong>Data da entrega:</strong></td><td></td></tr>
-  </table>
-</div>
+<table style="width:100%; border-collapse:collapse; border:1px solid #ccc;">
+<tr><td><strong>Unidade EMBRAPII:</strong></td><td>CEIA/UFG</td></tr>
+<tr><td><strong>Empresa:</strong></td><td>&lt;NOME DA EMPRESA&gt;</td></tr>
+<tr><td><strong>Código do projeto:</strong></td><td></td></tr>
+<tr><td><strong>Título do projeto:</strong></td><td>&lt;TÍTULO NO SRINFO&gt;</td></tr>
+<tr><td><strong>Número da macroentrega:</strong></td><td>&lt;1&gt;</td></tr>    
+<tr><td><strong>Título da macroentrega:</strong></td><td></td></tr>
+<tr><td><strong>Percentual executado da Macroentrega:</strong></td><td></td></tr>
+<tr><td><strong>Data da entrega:</strong></td><td></td></tr>
+</table>
+
 
 <p style="margin-top:20px;">
 Eu <strong>[responsavelEmpresa]</strong> declaro que a Macroentrega detalhada a seguir neste documento está aceita.
 </p>
-<br>
+<br><br>
 <p><strong>Assinatura: ______________________________</strong></p>
 
 </div>
