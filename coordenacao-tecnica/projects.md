@@ -57,7 +57,9 @@ Para garantir rastreabilidade e organização nas entregas, recomendamos preench
 Estes campos são obrigatórios para organização mínima do projeto:
 
 - **Assignee**: Pessoa responsável pela execução da issue.
-- **Milestone**: Macroentrega ou marco ao qual a atividade está relacionada.
+- **Milestone**: Macroentrega ou marco ao qual a atividade está relacionada. 
+
+> 🔔 Consulte [macroentregas.md](./macroentregas.md) para saber como criar e utilizar milestones.
 
 ### Automatizações
 
