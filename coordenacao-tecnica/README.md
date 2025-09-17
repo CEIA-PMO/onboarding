@@ -17,6 +17,7 @@ O(a) Coordenador(a) Técnico(a) é responsável por:
 ## 📂 Estrutura do Manual
 
 - [`projects.md`](./projects.md) → Diretrizes de uso do GitHub Projects
+- [`acompanhamento.md`](./acompanhamento.md): Como acompanhar a execução das atividades do time
 - [`macroentregas.md`](./macroentregas.md) → Como registrar e acompanhar macroentregas
 - [`boas-praticas-coordenador.md`](./boas-praticas-coordenador-tecnico.md) → Boas práticas e recomendações
 
