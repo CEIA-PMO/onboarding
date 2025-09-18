@@ -46,7 +46,7 @@ Documentação voltada para o Coordenador Geral:
 - Apresentação de resultados para a empresa parceira
 - Governança mínima no GitHub (gestão de acessos e papéis)
 
-Acesse: [`/coordenador-geral`](./coordenador-geral)
+Acesse: [`/coordenador-geral`](./coordenacao-geral)
 
 ---
 
