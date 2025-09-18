@@ -38,6 +38,18 @@ Acesse: [`/coordenacao-tecnica`](./coordenacao-tecnica)
 
 ---
 
+### 🎯 Manual do Coordenador Geral
+Documentação voltada para o Coordenador Geral:
+- Responsabilidades estratégicas do projeto
+- Relação com a Coordenação Técnica
+- Acompanhamento macro das macroentregas
+- Apresentação de resultados para a empresa parceira
+- Governança mínima no GitHub (gestão de acessos e papéis)
+
+Acesse: [`/coordenador-geral`](./coordenador-geral)
+
+---
+
 ## Começando
 
 1. Acesse a pasta correspondente ao seu papel (Squad ou Coordenação Técnica).
