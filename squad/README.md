@@ -14,9 +14,9 @@ Resumo das principais etapas do fluxo de trabalho esperado de um membro do squad
 
 ## Estrutura do Manual
 
-- Ambientação técnica : [`ambientacao-git.md`](./ambientacao-git.md)
-- Organização de Atividades : [`fluxo-github-projects.md`](./fluxo-github-projects.md)
-- GitFlow e Versionamento: [`gitflow-e-padroes.md`](./gitflow-e-padroes.md)
+- [`ambientacao-git.md`](./ambientacao-git.md) → Ambientação técnica 
+- [`fluxo-github-projects.md`](./fluxo-github-projects.md) → Organização de Atividades
+- [`gitflow-e-padroes.md`](./gitflow-e-padroes.md) → GitFlow e Versionamento
   
 ## Comece por aqui
 
