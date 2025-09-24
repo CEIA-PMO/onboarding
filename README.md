@@ -29,7 +29,7 @@ Acesse: [`/lider-tecnico`](./lider-tecnico)
 
 ---
 
-### 🧑‍💻 Manual da Coordenação Técnica
+### 🧑‍💻 Manual do Coordenador Técnico
 Documentação voltada para membros da coordenação técnica:
 - Processos de gestão técnica
 - Organização e acompanhamento dos projetos
@@ -52,7 +52,7 @@ Acesse: [`/coordenacao-geral`](./coordenacao-geral)
 
 ## Começando
 
-1. Acesse a pasta correspondente ao seu papel (Squad ou Coordenação Técnica).
+1. Acesse a pasta correspondente ao seu papel (Squad, Líder técnico, Coordenador Técnico ou Coordenador Geral).
 2. Leia o material disponível com atenção.
 3. Realize as atividades práticas propostas.
 4. Em caso de dúvidas, procure seu líder técnico ou supervisor direto.
