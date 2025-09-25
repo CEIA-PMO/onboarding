@@ -22,7 +22,7 @@ O Líder Técnico é responsável por **guiar o squad tecnicamente**. O Líder T
 ## Estrutura do Manual
 
 - [`apoio-tecnico.md`](./apoio-tecnico.md) → Apoio Técnico ao Squad e à Coordenação Técnica
-- [`boas-praticas.md`](./boas-praticas.md) → Boas Práticas de Liderança Técnica
+- [`boas-praticas-lider-tecnico.md`](./boas-praticas-lider-tecnico.md) → Boas práticas e recomendações
 
 ---
 

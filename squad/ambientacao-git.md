@@ -41,12 +41,4 @@ Crie um repositório no seu GitHub chamado `ambientacao-git` e siga os passos:
 
 ---
 
-# Boas Práticas
-
-- Commits devem ser pequenos, claros e frequentes.
-- Sempre utilize branches para novas funcionalidades ou correções.
-- Revisões de código são fundamentais para garantir a qualidade e aprendizado contínuo.
-
----
-
 

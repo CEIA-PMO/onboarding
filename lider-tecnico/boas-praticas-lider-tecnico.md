@@ -1,4 +1,4 @@
-# 🌟 Boas Práticas para Líderes Técnicos
+# ✅ Boas Práticas do Líder Técnico
 
 O Líder Técnico atua como referência técnica dentro do projeto, apoiando tanto o Squad quanto a Coordenação Técnica. Seu objetivo é garantir qualidade técnica, orientar decisões mais assertivas e colaborar para o sucesso do projeto.
 
