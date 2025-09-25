@@ -1,8 +1,8 @@
-# 🧑‍💻 Manual da Coordenação Técnica - CEIA
+# 🧑‍💻 Manual do Coordenador Técnico - CEIA
 
 Este manual tem como objetivo orientar os(as) Coordenadores(as) Técnicos(as) sobre suas responsabilidades no acompanhamento dos projetos do CEIA utilizando GitHub Projects e GitFlow.
 
-## Papel da Coordenação Técnica
+## Papel do Coordenador Técnico
 
 O(a) Coordenador(a) Técnico(a) é responsável por:
 
