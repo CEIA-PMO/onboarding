@@ -36,7 +36,7 @@ As colunas padrão do quadro são:
 3. **In Review** → Atividades concluídas, aguardando validação  
 4. **Done** → Atividades encerradas  
 
-> 🔔 Sempre associe a issue à macroentrega correspondente.
+> Sempre associe a issue à macroentrega correspondente.
 
 ### Campos para Organização das Issues
 
@@ -50,7 +50,7 @@ Para garantir rastreabilidade e organização nas entregas, recomendamos preench
 - **Data de Início**: Data que a atividade foi iniciada.
 - **Data de Fim**: Data de conclusão da atividade.
 
-> 🔔 Esses campos permitem alimentar visualizações como **Roadmap**, **Current Iteration** e **Team Capacity** com mais precisão.
+> Esses campos permitem alimentar visualizações como **Roadmap**, **Current Iteration** e **Team Capacity** com mais precisão.
 
 #### Campos Padrão (Obrigatórios)
 
@@ -59,7 +59,7 @@ Estes campos são obrigatórios para organização mínima do projeto:
 - **Assignee**: Pessoa responsável pela execução da issue.
 - **Milestone**: Macroentrega ou marco ao qual a atividade está relacionada. 
 
-> 🔔 Consulte [macroentregas.md](./macroentregas.md) para saber como criar e utilizar milestones.
+> Consulte [macroentregas.md](./macroentregas.md) para saber como criar e utilizar milestones.
 
 ### Automatizações
 
@@ -69,7 +69,7 @@ O quadro utiliza automações que facilitam o acompanhamento do fluxo de trabalh
 
 Essa automação depende de o PR estar corretamente vinculado à issue por meio do campo _Development_. É responsabilidade do **membro do squad** realizar o vínculo da issue ao Pull Request.
 
-> 🔔 Recomendamos que a **Coordenação Técnica sempre reforce essa prática com o time**, especialmente durante o onboarding ou revisões semanais. O vínculo correto permite rastreabilidade entre código e planejamento, além de acionar as automações do GitHub Projects de forma adequada.
+> Recomendamos que a **Coordenação Técnica sempre reforce essa prática com o time**, especialmente durante o onboarding ou revisões semanais. O vínculo correto permite rastreabilidade entre código e planejamento, além de acionar as automações do GitHub Projects de forma adequada.
 
 ## Acesse o Template Oficial
 

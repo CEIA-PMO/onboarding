@@ -39,7 +39,7 @@ Ao finalizar a atividade:
     - O progresso da atividade
     - Dificuldades encontradas ou impedimentos
 
-> ⚠️ Essa rotina pode ser adaptada pelo Coordenador Técnico conforme a necessidade da equipe.
+> Essa rotina pode ser adaptada pelo Coordenador Técnico conforme a necessidade da equipe.
 
 ---
 

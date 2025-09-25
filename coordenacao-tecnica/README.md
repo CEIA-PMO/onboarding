@@ -1,8 +1,8 @@
-# ⚙️ Manual da Coordenação Técnica - CEIA
+# 🧑‍💻 Manual da Coordenação Técnica - CEIA
 
 Este manual tem como objetivo orientar os(as) Coordenadores(as) Técnicos(as) sobre suas responsabilidades no acompanhamento dos projetos do CEIA utilizando GitHub Projects e GitFlow.
 
-## 📌 Papel da Coordenação Técnica
+## Papel da Coordenação Técnica
 
 O(a) Coordenador(a) Técnico(a) é responsável por:
 
@@ -14,7 +14,7 @@ O(a) Coordenador(a) Técnico(a) é responsável por:
 
 ---
 
-## 📂 Estrutura do Manual
+## Estrutura do Manual
 
 - [`projects.md`](./projects.md) → Diretrizes de uso do GitHub Projects
 - [`acompanhamento.md`](./acompanhamento.md): Como acompanhar a execução das atividades do time
@@ -23,7 +23,7 @@ O(a) Coordenador(a) Técnico(a) é responsável por:
 
 ---
 
-## 🚀 Primeiros Passos
+## Primeiros Passos
 
 1. Leia atentamente os documentos listados acima.
 2. Familiarize-se com o **template de GitHub Projects** adotado pelo CEIA.

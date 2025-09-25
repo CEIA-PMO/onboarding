@@ -1,4 +1,4 @@
-# 🧑‍💻 Manual do Líder Técnico - CEIA
+# ⚙️ Manual do Líder Técnico - CEIA
 
 Este manual tem como objetivo orientar os **Líderes Técnicos** do CEIA sobre suas responsabilidades, práticas e rotinas no acompanhamento técnico dos squads.
 
