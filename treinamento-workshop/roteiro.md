@@ -24,9 +24,9 @@ Ao final do workshop, cada participante terá organizado (ou reorganizado) um de
 | **08h20 – 08h50** | **Apresentação da Documentação** | Revisão dos manuais e responsabilidades: Coordenador Geral, Coordenador Técnico e Líder Técnico. Demonstração da estrutura de pastas e README no repositório de onboarding. |
 | **08h50 – 09h30** | **Demonstração Prática** | Walkthrough do repositório modelo e do template do GitHub Projects. Demonstração de como criar macroentregas, milestones e issues seguindo o padrão CEIA. |
 | **09h30 – 11h00** | **Hands-on** | Cada participante acessará um de seus projetos reais e aplicará a estrutura proposta (reorganização de repositório, criação de macroentregas, milestones e issues). |
-| **Durante o Hands-on** | **Mentoria em Tempo Real** | A equipe de instrutores e o PMO circularão para apoiar dúvidas e revisar a aplicação do modelo em tempo real. |
+| **Durante o Hands-on** | **Mentoria em Tempo Real** | A equipe de PMO circularão para apoiar dúvidas e revisar a aplicação do modelo em tempo real. |
 | **11h00 – 11h45** | **Encerramento e Boas Práticas** | Alinhamento final sobre uso contínuo do GitHub Projects, próximos passos e rotinas de acompanhamento por macroentrega. Espaço para perguntas e troca de experiências. |
-| **11h45 – 12h00** | **Fechamento** | Registro de presença, coleta de feedback e orientações pós-workshop. |
+| **11h45 – 12h00** | **Fechamento** | Coleta de feedback e orientações pós-workshop. |
 
 ---
 
