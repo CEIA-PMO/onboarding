@@ -34,8 +34,8 @@
 ## Atividade de Fixação
 
 Crie um repositório no seu GitHub chamado `ambientacao-git` e siga os passos:
-- Suba um arquivo `README.md` com uma pequena apresentação sua.
 - Crie uma branch chamada `minha-bio`.
+- Suba um arquivo `README.md` com uma pequena apresentação sua.
 - Adicione uma seção com suas linguagens favoritas.
 - Abra um Pull Request e peça a revisão de outro membro do squad.
 
