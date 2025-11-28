@@ -10,7 +10,7 @@ As **macroentregas** representam marcos do projeto e precisam estar documentadas
 
 ## Exemplo
 
-**Macroentrega 1: Setup do Projeto**  
+**Macroentrega 1**  
 📅 Data de entrega: 30/04/2025  
 🎯 Descrição: Estruturação inicial do projeto e definição da solução.  
 🔗 Issues vinculadas: #1, #2, #3
