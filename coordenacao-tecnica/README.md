@@ -23,6 +23,16 @@ O(a) Coordenador(a) Técnico(a) é responsável por:
 
 ---
 
+## Cheatsheet
+
+Consulte o cheatsheet com um resumo das principais atividades, práticas de acompanhamento e exemplos:
+
+<img width="500" src="https://github.com/user-attachments/assets/ddb86988-4a5d-465c-a68d-1e71334e8484" />
+
+> 💡Ideal para consultas rápidas durante o planejamento e acompanhamento das atividades do projeto.
+
+---
+
 ## Primeiros Passos
 
 1. Leia atentamente os documentos listados acima.
