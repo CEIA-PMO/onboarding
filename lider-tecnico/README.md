@@ -26,6 +26,15 @@ O Líder Técnico é responsável por **guiar o squad tecnicamente**. O Líder T
 
 ---
 
+## Cheatsheet do Líder Técnico
+
+Consulte o cheatsheet com um resumo das principais responsabilidades, boas práticas e recomendações do papel:
+
+<img width="500" src="https://github.com/user-attachments/assets/8be2b339-3344-46a2-b09c-1468b9086dee" />
+
+> 💡 Use este material como referência rápida para apoiar decisões técnicas e interação com o squad e a coordenação técnica.
+---
+
 ## Fluxo de Trabalho Recomendado
 
 1. Orientar o squad sobre abordagens técnicas.
